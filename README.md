@@ -38,7 +38,7 @@
 ## 🖧 Circuit Diagram
 <br>
 
-![Brake Buddy Demo](Brake-Buddy/images/circuit_image.svg)
+![Brake Buddy Circuit](Brake-Buddy/images/circuit_image.svg)
 
 > *The image diagram shows the complete Brake Buddy setup with LEDs, servo, LiDAR sensor, and buzzer on a breadboard.*
 
