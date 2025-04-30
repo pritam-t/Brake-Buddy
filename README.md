@@ -71,7 +71,7 @@
 
 ## 📷 Demo
 
-![Brake Buddy Demo](Brake-Buddy/images/Crash.PNG)
+![Brake Buddy Demo](Brake-Buddy/images/Crash.png)
 
 ---
 
